@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+  <style><![CDATA[  html, body {    margin: 0;    width: 100vw !important;    height: 100vh !important;    overflow: hidden;  }  foreignObject { overflow: visible; }  main, iframe, canvas {    position: fixed !important;    inset: 0 !important;    width: 100vw !important;    height: 100vh !important;  }]]></style>
   <foreignObject width="100%" height="100%">
     <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
       <head>
